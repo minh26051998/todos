@@ -2,31 +2,25 @@
   {
     "userId": 1,
     "id": 1,
-    "title": 'Đi làm',
+    "title": "Đi làm",
     "completed": false
   },
   {
     "userId": 1,
     "id": 1,
-    "title": 'Đi làm',
+    "title": "Đi làm",
     "completed": false
   },
   {
     "userId": 1,
     "id": 1,
-    "title": 'Đi làm',
+    "title": "Đi làm",
     "completed": false
   },
   {
     "userId": 1,
     "id": 1,
-    "title": 'Đi làm',
-    "completed": false
-  },
-  {
-    "userId": 1,
-    "id": 1,
-    "title": 'Đi làm',
+    "title": "Đi làm",
     "completed": false
   },
 ]
